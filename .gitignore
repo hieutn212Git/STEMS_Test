@@ -1,0 +1,72 @@
+## Build results
+bin/
+obj/
+out/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## VSCode
+.vscode/
+
+## Logs
+*.log
+
+## ASP.NET files
+wwwroot/lib/
+wwwroot/node_modules/
+
+## NuGet
+packages/
+*.nupkg
+*.snupkg
+
+## Environment files
+.env
+appsettings.Development.json
+
+## Publish folder
+publish/
+
+## Test Results
+TestResults/
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## Entity Framework
+Migrations/*.Designer.cs
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Temp files
+*.tmp
+*.temp
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## SQL Server localdb
+*.mdf
+*.ldf
+
+## Backup files
+*.bak
+
+## Node modules (for React frontend)
+node_modules/
+
+## npm cache
+npm-debug.log*
