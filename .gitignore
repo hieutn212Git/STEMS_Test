@@ -62,9 +62,6 @@ _ReSharper*/
 *.mdf
 *.ldf
 
-## Backup files
-*.bak
-
 ## Node modules (for React frontend)
 node_modules/
 
